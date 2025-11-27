@@ -17,7 +17,7 @@ I built this because **I needed a simple counter that actually works** — no ad
 
 ## 🚀 Try It Live
 
-👉 **[https://smart-counter.vercel.app](https://smart-counter.vercel.app)**
+👉 **[Click here](https://smart-counter-self.vercel.app)**
 
 *(Works instantly — no installation needed!)*
 
